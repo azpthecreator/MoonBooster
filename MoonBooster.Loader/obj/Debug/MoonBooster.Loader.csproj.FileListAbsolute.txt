@@ -1,0 +1,9 @@
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\bin\Debug\MoonBooster.Loader.exe.config
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\bin\Debug\MoonBooster.Loader.exe
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\bin\Debug\MoonBooster.Loader.pdb
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.csprojAssemblyReference.cache
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.Form1.resources
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.Properties.Resources.resources
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.csproj.GenerateResource.cache
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.exe
+C:\Users\azps\source\repos\MoonBooster\MoonBooster.Loader\obj\Debug\MoonBooster.Loader.pdb
